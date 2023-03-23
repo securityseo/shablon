@@ -1,0 +1,1 @@
+consoleprint('hello word')
